@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/dropdonwcustom/BuildConfig.java
+ com.example.dropdonwcustom.BuildConfig
